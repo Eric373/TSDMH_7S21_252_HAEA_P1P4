@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TSDMH_7S21_252_HAEA_P1P4</string>
+    <string name="p1t1">Envio de datos</string>
+    <string name="lbl1p1">Ingresa tu nombre</string>
+    <string name="lbl2p1">Ingresa tu edad</string>
+    <string name="h1p1">Aqui tu nombre</string>
+    <string name="h2p1">Aqui tu edad</string>
+    <string name="btn1p1">Siguiente</string>
+
+    <string name="lbl1p2">Ingresa tu numero</string>
+    <string name="lbl2p2">Ingresa tu correo</string>
+    <string name="h1p2">Aqui tu numero</string>
+    <string name="h2p2">Aqui tu correo</string>
+    <string name="btn1p2">Mostrar datos</string>
+
+</resources>
